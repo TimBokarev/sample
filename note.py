@@ -17,3 +17,9 @@ file = open("notes.txt", "w")
 file.write(current_text + added_text)
 
 file.close() 
+
+------------------------
+
+file.write(current_text + added_text)
+file.write(current_text + added_text)
+file.write(current_text + added_text)
